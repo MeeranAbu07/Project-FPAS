@@ -3728,11 +3728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mohid\\source\\repos\\FPAS\\FPAS\\FPAS.csproj",
+      "projectUniqueName": "C:\\Users\\mohid\\source\\repos\\Project-FPAS\\FPAS\\FPAS.csproj",
       "projectName": "FPAS",
-      "projectPath": "C:\\Users\\mohid\\source\\repos\\FPAS\\FPAS\\FPAS.csproj",
+      "projectPath": "C:\\Users\\mohid\\source\\repos\\Project-FPAS\\FPAS\\FPAS.csproj",
       "packagesPath": "C:\\Users\\mohid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mohid\\source\\repos\\FPAS\\FPAS\\obj\\",
+      "outputPath": "C:\\Users\\mohid\\source\\repos\\Project-FPAS\\FPAS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohid\\AppData\\Roaming\\NuGet\\NuGet.Config",

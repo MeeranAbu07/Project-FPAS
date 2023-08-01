@@ -4,8 +4,8 @@
     {
         public long Id { get; set; }
         public string Name { get; set; }
-        public long EmployeeId { get; set; }
-        public int RoleId { get; set; }
+        public long? EmployeeId { get; set; }
+        public int? RoleId { get; set; }
         public int Age { get; set; }
         public string PhoneNumber { get; set; }
         public string EmailAddress { get; set; }
